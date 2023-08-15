@@ -1,4 +1,4 @@
-Alocal Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "Auto Bounty | Blox Fruit",
     LoadingTitle = "Script Auto Bounty | Blox Fruit ",
